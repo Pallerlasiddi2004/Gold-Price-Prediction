@@ -1,1 +1,1 @@
-# project
+# GOLD PRICE PREDICTION PROJECT
